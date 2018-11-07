@@ -3,4 +3,7 @@
     <string name="fluffy_my_cat">Fluffy my cat</string>
     <string name="hulk_my_dog">Hulk my dog</string>
     <string name="kitty_my_other_cat">kitty my other cat</string>
+    <string name="lion">Lion</string>
+    <string name="monkey">Monkey</string>
+    <string name="snake">Snake</string>
 </resources>
